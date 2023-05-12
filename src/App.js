@@ -6,7 +6,7 @@ import FaucetAbi from "./Abis/Faucet.json";
 import Swal from 'sweetalert2';
 
 
-const faucetContractAddress = "0xBd91281A21D18654d1041916f79081c11626dDa5"; // kendi faucet kontrat adresinizle degistirin.
+const faucetContractAddress = "0xB77dCF25fEB4AD809277728bc192993C7993A246"; // kendi faucet kontrat adresinizle degistirin.
 
 function App() {
 
